@@ -1,2 +1,3 @@
-# learning
-to learn new things
+# This is my first web page
+
+I used HTML and CSS for this web page
