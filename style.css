@@ -1,5 +1,3 @@
-<style>
-
 /* všechny elementy */
 * { 
   box-sizing: border-box;
@@ -174,6 +172,3 @@ input[type=button]:hover {
 margin: 14px;
 color: #ddd;
 }
-
-</style>
-</head>
